@@ -1,0 +1,12 @@
+Content-Type: application/json
+[
+{"GoodsId","FloorId","Amount"}
+{}
+......
+]
+
+Success：
+201
+Failure：
+400
+Bad Request
